@@ -1,2 +1,6 @@
 # CFDA-M
-data and code for CFDA-M
+Code for CFDA-M
+## Datasets
+VNC
+Lucchi++
+SNEMI3D
