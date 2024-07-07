@@ -4,7 +4,7 @@ Codes and data for CFDA-M: Coarse-to-Fine Domain Adaptation for Mitochondria Seg
 Data used in this paper can be download [here](https://pan.baidu.com/s/1loxVwzj0OeIw2OOQLrH36g?pwd=wf5f).
 ## Dependencies
 ## Training
-Coarse stage
+### Coarse stage
 '''
 cd /stage1
 '''
@@ -35,7 +35,7 @@ CUDA_VISIBLE_DEVICES=0 python train.py \
 --checkpoints_dir ./checkpoints/VNC2Lucchi/ \
 --display_id 0
 '''
-Fine stage
+### Fine stage
 '''
 cd /stage2
 '''
