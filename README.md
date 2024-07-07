@@ -42,6 +42,5 @@ cd /stage2
 ```
 CUDA_VISIBLE_DEVICES=0 python train.py
 ```
-### Fine stage
 ## Acknowledgement
 This code is based on [AccSeg-Net](https://github.com/weih527/SSNS-Net) (MICCAI'21) by Bo Zhou et al. Should you have any further questions, please let us know. Thanks again for your interest.
