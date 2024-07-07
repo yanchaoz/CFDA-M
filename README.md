@@ -7,4 +7,4 @@ Data used in this paper can be download [here](https://pan.baidu.com/s/1loxVwzj0
 ### Coarse stage
 ### Fine stage
 ## Acknowledgement
-This code is based on [AccSeg-Net](https://github.com/weih527/SSNS-Net) (IEEE TMI'22) by Bo Zhou et al. Should you have any further questions, please let us know. Thanks again for your interest.
+This code is based on [AccSeg-Net](https://github.com/weih527/SSNS-Net) (MICCAI'21) by Bo Zhou et al. Should you have any further questions, please let us know. Thanks again for your interest.
