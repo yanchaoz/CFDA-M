@@ -31,7 +31,7 @@ CUDA_VISIBLE_DEVICES=0 python train.py \
 --lambda_GAN 1.0 \
 --lambda_NCE 1.0 \
 --lambda_DICE 1.0 \
---lambda_SC 0.0 \
+--lambda_SC 1.0 \
 --checkpoints_dir ./checkpoints/VNC2Lucchi/ \
 --display_id 0
 ```
