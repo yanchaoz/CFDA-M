@@ -6,7 +6,7 @@ Data used in this paper can be download [here](https://pan.baidu.com/s/1loxVwzj0
 ## Training
 ### Coarse stage
 ```
-cd /stage1
+cd stage1
 ```
 ```
 CUDA_VISIBLE_DEVICES=0 python train.py \
@@ -37,7 +37,7 @@ CUDA_VISIBLE_DEVICES=0 python train.py \
 ```
 ### Fine stage
 ```
-cd /stage2
+cd stage2
 ```
 ```
 CUDA_VISIBLE_DEVICES=0 python train.py
